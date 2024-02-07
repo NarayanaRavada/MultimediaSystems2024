@@ -1,0 +1,3 @@
+[submodule "modified_rle/libdivsufsort"]
+	path = modified_rle/libdivsufsort
+	url = https://github.com/y-256/libdivsufsort
